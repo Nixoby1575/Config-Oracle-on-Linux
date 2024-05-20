@@ -34,7 +34,7 @@ ORACLE LINUX
 RED HAT 7 y Centos 7
 ====================
 RED HAT 7
-https://yum.oracle.com/repo/OracleLinux/OL7/latest/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el7.x86_64.rpm
+curl -o pre-install-oracle21.rpm https://yum.oracle.com/repo/OracleLinux/OL7/latest/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el7.x86_64.rpm
 yum install oracle-database-preinstall-21c
 
 
